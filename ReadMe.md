@@ -40,7 +40,7 @@ This project is a simple Library Management System implemented in Java. It allow
 
 1.  **Clone the Repository (if applicable):**
     ```bash
-    git clone [repository_url]
+    git clone (https://github.com/Monki12/BT23CSE012_IOOMAssignement6.git)
     cd LibraryManagementSystem
     ```
 
