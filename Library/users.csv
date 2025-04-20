@@ -1,0 +1,6 @@
+userId,name,password,isLibrarian,department,year,position,salary
+admin,Admin,admin123,true,,0,Head Librarian,50000.00
+student,Student,student123,false,Computer Science,2,,0.00
+29617,Ankita Bagal,flowers,false,CSE,2,,0.00
+29614,Rajashree Patel,ece2023,false,ECE,2,,0.00
+29618,Uma Mukherjee,cse2023,false,CSE,2,,0.00
