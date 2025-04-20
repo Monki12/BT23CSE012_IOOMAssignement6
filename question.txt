@@ -1,0 +1,9 @@
+The system uses 6 Java files in the Library package:
+
+File	Purpose
+Library.java	Main class (contains main() method and core logic)
+Book.java	Represents books in the library
+User.java	Base class for all users (abstract)
+Student.java	Extends User (for student accounts)
+Librarian.java	Extends User (for librarian accounts)
+Transaction.java	Tracks book borrow/return transactions
